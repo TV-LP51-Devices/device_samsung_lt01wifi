@@ -2,7 +2,7 @@
     {
         "repository": "CyanogenMod/android_device_samsung_smdk4412-common",
         "target_path": "device/samsung/smdk4412-common",
-        "branch:    "cm-12.0"
+        "branch":    "cm-12.0"
     },
     {
         "repository": "gr8nole/android_device_samsung_lt01-common",
