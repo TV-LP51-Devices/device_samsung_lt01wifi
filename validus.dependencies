@@ -1,0 +1,37 @@
+[
+    {
+        "repository": "CyanogenMod/android_device_samsung_smdk4412-common",
+        "target_path": "device/samsung/smdk4412-common",
+        "branch:    "cm-12.0"
+    },
+    {
+        "repository": "gr8nole/android_device_samsung_lt01-common",
+        "target_path": "device/samsung/lt01-common",
+        "branch":   "cm-12.0"
+    },
+    {
+        "repository": "gr8nole/android_device_samsung_lt013g",
+        "target_path": "device/samsung/lt013g",
+        "branch":   "cm-12.0"
+    },
+    {
+        "repository": "gr8nole/android_kernel_samsung_smdk4x12",
+        "target_path": "kernel/samsung/smdk4x12",
+        "branch":   "cm-12.0"
+    },
+    {
+        "repository": "CyanogenMod/android_packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode",
+        "branch":   "cm-12.0"
+    },
+    {
+        "repository": "gr8nole/android_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "branch":   "cm-12.0"
+    },
+    {
+        "repository":   "gr8nole/proprietary_vendor_samsung",
+        "target_path":  "vendor/samsung",
+        "branch":   "cm-12.0"
+    }
+]
